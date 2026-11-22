@@ -1,65 +1,117 @@
-# Hi, I'm Nikita Sharma 👋
+<div align="center">
 
-**Software engineer & data scientist** building software systems, ML models and LLM-powered tools.
-MS in Applied Data Science, Syracuse University (GPA 3.91). Previously DevOps and backend engineering in Bengaluru.
+<img src="https://github.com/niksisharma/niksisharma/raw/main/media/banner-footer.png" width="100%" alt="Nikita Sharma, software engineer and data scientist" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=4A8F68&center=true&vCenter=true&width=640&height=70&lines=Nikita+Sharma" alt="Nikita Sharma" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4A8F68&center=true&vCenter=true&width=640&lines=Software+Engineer;ML+%26+LLM+Systems+Builder;Data+Scientist" alt="Typing animation of roles" />
+
+Building software systems, ML models and LLM-powered tools.
+MS in Applied Data Science, Syracuse University (GPA 3.91).
+Previously DevOps and software engineering in Bengaluru.
+
+<br/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to-SWE_%7C_Backend_%7C_ML%2FAI_%7C_Data_Science-1E4A3B?style=flat-square&labelColor=0F2A20" alt="Open to roles" />
+<img src="https://img.shields.io/badge/MS-Applied_Data_Science-2F5A3E?style=flat-square&labelColor=0F2A20" alt="MS Applied Data Science" />
+<img src="https://img.shields.io/badge/Currently-SWE_Intern_%40_D%26D_Motor_Systems-3E6B4F?style=flat-square&labelColor=0F2A20" alt="Current role" />
+
+</div>
+
+<br/>
 
 ---
 
-## What I'm up to
+<h2 align="center">What I'm up to</h2>
 
 - CS Intern at **D&D Motor Systems**: marketplace integrations (Amazon, eBay, PayPal), full-stack features, and moving the team's deployments onto Git/GitHub
-- Graduated **MS Applied Data Science**, Syracuse University (Dec 2025)
+- Graduated **MS Applied Data Science**, Syracuse University
 - Exploring LLM agents, RAG, MCP and tool use
-- Open to **Software Engineering, Backend, ML/AI and Data Science** roles
+- Open to **Software Engineering, DevOps, ML/AI and Data Science** roles
 
 ---
 
-## 🛠️ Tech stack
+<h2 align="center">Tech stack</h2>
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python, JavaScript/Node.js, SQL, Java, C++, C#, PHP, Bash, Groovy, R, MATLAB |
-| **Backend & APIs** | Node.js, Express, Flask, REST API design, Microservices, Sequelize |
-| **Frontend** | React, HTML5, CSS3, Streamlit |
-| **Databases** | MySQL, Postgres, MongoDB, Firebase, Neo4j, SQLite, MSSQL |
-| **GenAI & LLMs** | OpenAI API, LangChain, Graphiti, RAG, Hybrid Search, Fine-tuning, Multi-agent systems |
-| **ML / DL** | PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LightGBM, OpenCV, NLP |
-| **Data & BI** | Pandas, NumPy, statsmodels, Power BI, Tableau, Google Analytics |
-| **DevOps & Testing** | Jenkins, GitHub Actions, Docker, AWS (EC2), Linux, Jest, pytest, Postman |
+<div align="center">
 
-<details>
-<summary>Currently learning / familiar with</summary>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,php,r,matlab,bash&theme=dark" alt="Languages" />
 
-TypeScript, Next.js, Django, Spring Boot, FAISS, Chroma, Hugging Face, Anthropic API, MCP, LoRA/PEFT, PySpark, Snowflake, Databricks, Kubernetes, Azure
+**Backend and APIs**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Backend" />
 
-</details>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,neo4j,sqlite&theme=dark" alt="Databases" />
+
+**ML and Deep Learning**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="ML" />
+
+**Data and BI**<br/>
+<img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" alt="BI" />
+
+**DevOps and Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,docker,aws,linux&theme=dark" alt="DevOps" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**GenAI and LLMs:** OpenAI API, LangChain, Graphiti, RAG, Hybrid Search, Fine-tuning, Multi-agent systems
+
+</div>
 
 ---
 
-## Featured projects
+<h2 align="center">Featured projects</h2>
 
 ### [RAG-ception: Automated Research Knowledge Management](https://github.com/niksisharma/ragception)
 Multi-agent system that tracks, summarizes and links RAG/LLM papers from arXiv, saving ~3 hours a week of literature review.
-- `Python` `PyTorch` `OpenAI API` `Graphiti` `Neo4j` `Streamlit`
+
+`Python` `PyTorch` `OpenAI API` `Graphiti` `Neo4j` `Streamlit`
 
 ### [Jeopardy Semantic Search Engine](https://github.com/niksisharma/jeopardy)
 Dense-retrieval search over 350K+ Q&A pairs with sub-100ms latency, SymSpell spell correction and bidirectional question/answer search.
-- `Python` `Sentence Transformers` `scikit-learn` `NumPy`
 
-### Multi-Horizon Space Weather Prediction
-LSTM forecasting geomagnetic activity at 1, 3, 6 and 12 hour horizons, with physics-guided features and leak-free temporal cross-validation (R² = 0.82).
-- `Python` `TensorFlow/Keras` `Time-series`
+`Python` `Sentence Transformers` `scikit-learn` `NumPy`
 
 ### [Capsule Network Image Classifier (CapsNet & CapsViT)](https://github.com/niksisharma/capsNet)
-Beat a ResNet-34 baseline on CIFAR-100 by ~2 pp with ~40% fewer parameters; proposed a hybrid Capsule + ViT variant that cut training time by ~30%.
-- `Python` `PyTorch` `Computer Vision`
+Beat a ResNet-34 baseline on CIFAR-100 by ~2 pp with ~40% fewer parameters; a hybrid Capsule + ViT variant cut training time by ~30%.
+
+`Python` `PyTorch` `Computer Vision`
 
 ### [Airbnb Occupancy Prediction](https://github.com/niksisharma/airbnb)
 Deep neural network for multi-city occupancy forecasting; feature engineering reduced validation RMSE by ~20%.
-- `Python` `TensorFlow` `scikit-learn`
+
+`Python` `TensorFlow` `scikit-learn`
 
 ---
 
-## 📫 Let's connect
+<h2 align="center">Contributions</h2>
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/niksisharma)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niksisharma/niksisharma/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niksisharma/niksisharma/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/niksisharma/niksisharma/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+<h2>Let's connect</h2>
+
+<a href="https://www.linkedin.com/in/niksisharma"><img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-2F5A3E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2A20" alt="LinkedIn" /></a>
+
+<img src="https://github.com/niksisharma/niksisharma/raw/main/media/banner-footer.png" width="100%" alt="" />
+
+</div>
