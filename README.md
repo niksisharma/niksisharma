@@ -14,7 +14,7 @@ Previously DevOps and software engineering in Bengaluru.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open_to-SWE_%7C_Backend_%7C_ML%2FAI_%7C_Data_Science-1E4A3B?style=flat-square&labelColor=0F2A20" alt="Open to roles" />
+<img src="https://img.shields.io/badge/Open_to-SWE_%7C_DevOps_%7C_ML%2FAI_%7C_Data_Science_roles-1E4A3B?style=flat-square&labelColor=0F2A20" alt="Open to roles" />
 <img src="https://img.shields.io/badge/MS-Applied_Data_Science-2F5A3E?style=flat-square&labelColor=0F2A20" alt="MS Applied Data Science" />
 <img src="https://img.shields.io/badge/Currently-SWE_Intern_%40_D%26D_Motor_Systems-3E6B4F?style=flat-square&labelColor=0F2A20" alt="Current role" />
 
@@ -27,46 +27,31 @@ Previously DevOps and software engineering in Bengaluru.
 <h2 align="center">What I'm up to</h2>
 
 - CS Intern at **D&D Motor Systems**: marketplace integrations (Amazon, eBay, PayPal), full-stack features, and moving the team's deployments onto Git/GitHub
-- Graduated **MS Applied Data Science**, Syracuse University
+- Graduated **MS Applied Data Science**, Syracuse University 
 - Exploring LLM agents, RAG, MCP and tool use
-- Open to **Software Engineering, DevOps, ML/AI and Data Science** roles
+- Open to **Software Engineering, Backend, ML/AI and Data Science** roles
 
 ---
 
 <h2 align="center">Tech stack</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,php,r,matlab,bash,nodejs,express,flask,react,html,css,mysql,postgres,mongodb,firebase,neo4j,sqlite,pytorch,tensorflow,sklearn,opencv,pandas,numpy,powerbi,tableau,git,githubactions,jenkins,docker,aws,linux&theme=dark&perline=12" alt="Tech stack icons" />
+</p>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,php,r,matlab,bash&theme=dark" alt="Languages" />
-
-**Backend and APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Backend" />
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,neo4j,sqlite&theme=dark" alt="Databases" />
-
-**ML and Deep Learning**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="ML" />
-
-**Data and BI**<br/>
-<img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" alt="BI" />
-
-**DevOps and Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,docker,aws,linux&theme=dark" alt="DevOps" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**GenAI and LLMs:** OpenAI API, LangChain, Graphiti, RAG, Hybrid Search, Fine-tuning, Multi-agent systems
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-173D30?style=flat-square&labelColor=0F2A20" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1E4A3B?style=flat-square&labelColor=0F2A20" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Graphiti-2F5A3E?style=flat-square&labelColor=0F2A20" alt="Graphiti" />
+  <img src="https://img.shields.io/badge/RAG-3E6B4F?style=flat-square&labelColor=0F2A20" alt="RAG" />
+  <img src="https://img.shields.io/badge/Hybrid%20Search-173D30?style=flat-square&labelColor=0F2A20" alt="Hybrid Search" />
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-1E4A3B?style=flat-square&labelColor=0F2A20" alt="LLM Fine-tuning" />
+  <img src="https://img.shields.io/badge/Multi--agent%20Systems-2F5A3E?style=flat-square&labelColor=0F2A20" alt="Multi-agent Systems" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-3E6B4F?style=flat-square&labelColor=0F2A20" alt="Vector Embeddings" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-173D30?style=flat-square&labelColor=0F2A20" alt="Knowledge Graphs" />
+  <img src="https://img.shields.io/badge/Streamlit-1E4A3B?style=flat-square&labelColor=0F2A20" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-2F5A3E?style=flat-square&labelColor=0F2A20" alt="Google Analytics" />
+</p>
 
 ---
 
